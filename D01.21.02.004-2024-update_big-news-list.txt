@@ -1,0 +1,71 @@
+A few days ago I declared organisational bankruptcy. My life is a mess, and I’m going to start again.
+
+How did it get this way? The same way you go bankrupt for real: gradually, then suddenly. [^1] Calling my life ‘a mess’ is probably an over-statement, but if I’m going to be Johnny.Decimal full-time I should be a shining beacon of organisational purity. That, I am not.
+
+Take comfort from this. This shows you how hard it is to be organised: it’s not just you.
+
+I realised last year that the sheer volume of _stuff_ that we manage digitally has grown exponentially in the last decade. It used to be that you had a folder of ‘My Documents’ and an email account that got a handful of stuff a week and that was it.
+
+As I write about in one of the linked blog posts (below), I can now count _dozens_ of systems of information that make up my life. Each likely contains _hundreds_ if not _thousands_ of pieces of data or knowledge.
+
+Organising knowledge used to be a profession; you were given training. Today, we manage orders of magnitude more information with essentially no training or tools. (I explored this idea in a series of short videos last year. [^2])
+
+This is just digital life in 2024. It’s overwhelming.
+
+So I’ve hit the reset button, as has my partner Lucy. Here’s the plan for 2024.
+
+---
+
+# Lucy’s life
+
+Lucy has started organising her life by executing the Workbook. [^3]
+
+She edited the Workbook, but actually doesn’t have a lot of hands-on experience with Johnny.Decimal. Mostly she puts up with me telling her she’s filed something the wrong way.
+
+This makes her an ideal student; the ideal subject of a training course. And so we will carefully document Lucy’s journey and release **the Johnny.Decimal Workshop** in the next few months.
+
+Our hope is that Lucy can represent you: her problems are your problems, her questions yours. When we do this, we don’t discuss anything off-camera. Everything Lucy learns, she learns in the course. [^4]
+
+I’ll mail you again when this is released. It will be a paid video course that includes the Workbook. If you’ve already bought the Workbook, there’ll be a very healthy discount.
+
+# Johnny’s life
+
+Meanwhile I’m going to be much more ad-hoc and open. I’ve started organising, and everything will be on the blog. I won’t repeat myself: check out the articles on the site.
+
+1. Johnny.Decimal’ing Johnny.Decimal. https://johnnydecimal.com/20-29-communication/22-blog/22.00.0023-johnnydecimal-johnnydecimal/
+2. Starting the JD’ing process. https://johnnydecimal.com/20-29-communication/22-blog/22.00.0024-starting-the-jd-process/
+3. Systems, data, and knowledge. https://johnnydecimal.com/20-29-communication/22-blog/22.00.0025-systems-data-knowledge/
+
+As you’re on the ‘just the big news’ list, I won’t keep mailing you updates about this project. [^5]
+
+(If you want to switch to the still-not-very-frequent-but-more-frequent-than-twice-a-year ‘send me everything’ list, just reply to this email and let me know.)
+
+---
+
+Last year was amazing. I quit my job! This is literally my life’s dream; it’s still hard to believe. This is how we make our living, and for that, Lucy and I are eternally grateful. Thank you.
+
+We do this by selling stuff, for money, which makes me a touch uncomfortable. It’s just not in my nature to be a salesman. My hope is that the things we make are honest, useful, and reasonably priced.
+
+I am entirely driven by your feedback. I listen to everything, and I’m here to help. So, please, if there’s ever anything that you need, tell me directly (just reply), or jump on the forum, Discord, or Mastodon. [^6]
+
+j.
+-- 
+Johnny ‘Decimal’ Noble
+Canberra, Australia
+
+---
+
+# Footnotes
+
+[^1]: Hemingway. https://quoteinvestigator.com/2018/08/06/bankrupt/
+[^2]: YouTube, ‘The Problem’ playlist. https://www.youtube.com/playlist?list=PLtBN5zRaar6pe7rJb1HANOgaq0Ysm6kj4
+[^3]: 14.02 The Johnny.Decimal Workbook. https://jdcm.al/14.02/
+[^4]: This is the premise of Learn with Lucy: Excel. Click here for a super special Johnny.Decimal family discount: only $19! Ridiculously cheap. https://www.learnwithlucy.rocks/courses/excel?coupon=johnnydecimal
+[^5]: See the communications plan [21.05] for more information. https://jdcm.al/21.05/
+[^6]: Forum: https://forum.johnnydecimal.com. Discord: http://discord.gg/KYWzAJhmPv. Mastodon: https://hachyderm.io/@johnnydecimal
+
+---
+
+# Unsubscribe
+
+I manage this list manually. If you want to unsubscribe, just reply, or fill in the form at https://jdcm.al/21.02/.
