@@ -1,0 +1,76 @@
+Hi all. Welcome to the first edition of ‘The Quarterly’.
+
+As with all the great ideas, this one was stolen. Alas I forget where I saw it: ‘I send exactly 6 emails a year’, the sticker on someone else’s website read. And immediately I knew it was a great idea that I had to have.
+
+(The name, at least, was mine. Lucy had the idea to call this list ‘Decimail’. A little _too_ droll?)
+
+Previously I had this high-volume/low-volume list split. But in reality I only ever sent low-volume. I just don’t _want_ to send that many emails. So now you’re all rolled in to one list, and you’ll get exactly 4 a year.
+
+This is (southern hemisphere) winter 2024’s edition, and it’s late because I only had the idea last week. The next will arrive on 1/Sep, then 1/Dec, and so on.
+
+---
+
+So, news. We’re making a new thing, and as it feels close enough to being real that I just published the first teaser. There’s a whole blog post which you should read, and I’ll extract just a few paragraphs here.
+
+> We’ve been spending the last few weeks developing a standard ‘life admin’ pack. The idea is that it’ll handle 95% of what 95% of people need to run their daily lives.
+> 
+> We did it by the book, starting by ‘discovering’ all of the things that people tell us they need to organise on the forum, email, workshop comments, and looking back at our own lives.
+>
+> Then we cracked open MindNode and we spent a few days just talking it all over. Looking at every decision, questioning it, refining it, moving things around.
+> 
+> And then I moved my entire personal life in to it, which caused us to refine it even further. So I’m proof that this works.
+
+https://johnnydecimal.com/20-29-communication/22-blog/22.00.0068-standard-life-admin-pack/
+
+We’re going to list it at US$20 full price. Here’s a pre-sale link for just $8.
+
+https://store.johnnydecimal.com/cart/42735655059592:1?discount=life-admin-presale
+
+---
+
+In other big news, the website has a new area and a new category. The first in a long time.
+
+Category `15 Patterns & templates` will contain just that. I’d like to build this out over time: standard stuff that you can just grab and use. Why re-invent the wheel?
+
+Area `30-39 The library` currently has a new section `31 Apps and utilities`. And I might end up moving those patterns & templates up here as well, it’s where they feel more at home.
+
+Something we discovered when doing Lucy’s system in the workshop: name things like an actual place and they just make more sense in your brain. We’ve all been trained to give our computer folders boring computer-y names. Why? They don’t need to be.
+
+Call it ‘the library’. Or Lucy designed herself ‘the museum’ for all of her archival stuff. Heaps more memorable than ‘archive’ or whatever else.
+
+Similarly I’ve started to use emoji in things -- see the blog post, above -- and I’m finding it really useful. Do whatever you need to do to help your brain connect to your computer. I’m 47: if I can use emoji in my folder names, so can you.
+
+---
+
+Just a quick shout-out to Justin at Buttondown, the previous home of this mailing list. I’m nerdy enough to do this myself, but if you’re not -- and you almost certainly shouldn’t -- then Buttondown is an _amazing_ email list service.
+
+This is a market full of really sleazy tactics. Justin does what we’re trying to do: he makes the internet better, not worse. If this is something you need, check them out at https://buttondown.email.
+
+---
+
+Okay, back to finishing this pack. Lucy is typing up its manual next to me. As with any written product of ours, it’s her you can thank for its immaculate -- and I mean that by the strict definition, it’ll be flawless -- presentation.
+
+And let me know what else you need. It’s just me sitting here typing this email, and it’ll just be me that reads your reply. I can try to guess what you need, but it’d be a lot easier if you just told me. :-)
+
+So, until autumn, when we’ll hopefully see a little more of the chickens. They spend an awful lot of time in their bush during winter, which is fair enough. It’s not like we’re out there keeping them company. Here in Canberra it’s thermal t-shirt and all-day-heating weather. 
+
+j.
+
+---
+
+Oh yeah, I’ll start showing my working when I do stuff like this. Here’s where this email lives.
+
+D85 Johnny.Decimal/
+└─ 20-29 Customers & communications/
+    └─ 23 Broadcast/
+       └─ 23.13 The Quarterly
+
+And the ‘JD Quick-Start pack’, which gets its own category.
+
+D85 Johnny.Decimal/
+└─ 40-49 Products
+    └─ 44 Quick-start pack
+
+---
+
+To unsubscribe, send an email to list@johnnydecimal.com with the subject UNSUBSCRIBE. To contact me, just reply.
